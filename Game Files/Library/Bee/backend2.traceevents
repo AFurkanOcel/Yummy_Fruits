@@ -1,0 +1,389 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1730964649831236, "dur":56, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730964649831402, "dur":68005, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730964649899420, "dur":263, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730964649899797, "dur":727, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730964649900603, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1730964649900753, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1730964649900860, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649900985, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901050, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901107, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901196, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901315, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level10.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901424, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901529, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level2.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901601, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level3" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901725, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level4" }}
+,{ "pid":12345, "tid":0, "ts":1730964649901934, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level5.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649902029, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level6.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649902385, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level8" }}
+,{ "pid":12345, "tid":0, "ts":1730964649902523, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/level9" }}
+,{ "pid":12345, "tid":0, "ts":1730964649902665, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649902770, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1730964649902865, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1730964649902983, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903098, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903169, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903251, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903355, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets10.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903424, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903493, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903551, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903830, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649903907, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":0, "ts":1730964649904152, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649904309, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649904433, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1730964649904563, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1730964649904870, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649904950, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649905197, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649905351, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649905429, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649905526, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649905663, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649905745, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649905818, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649905912, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649906002, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649906099, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649906323, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649906542, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649906698, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649906760, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649906819, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649906898, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907005, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907060, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907158, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907265, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907418, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907511, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907607, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907717, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907780, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649907896, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908035, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908125, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908235, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908326, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908508, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908576, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908675, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908874, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649908989, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649909174, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649909235, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649909328, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649909571, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649909702, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649909881, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1730964649900581, "dur":10176, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730964649910760, "dur":263398, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730964650174159, "dur":122, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730964650174501, "dur":1853, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1730964649902051, "dur":8713, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730964649910766, "dur":4824, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730964649916390, "dur":412, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1730964649916807, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730964649916909, "dur":19389, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1730964649936302, "dur":186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1730964649937174, "dur":339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\mygames\\Dosyalar\\Yummy Fruits\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730964649937516, "dur":417, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\mygames\\Dosyalar\\Yummy Fruits\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730964649937936, "dur":557, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\mygames\\Dosyalar\\Yummy Fruits\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730964649938496, "dur":731, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\mygames\\Dosyalar\\Yummy Fruits\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730964649939230, "dur":1186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\mygames\\Dosyalar\\Yummy Fruits\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730964649940420, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\mygames\\Dosyalar\\Yummy Fruits\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730964649940604, "dur":749, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\mygames\\Dosyalar\\Yummy Fruits\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1730964649941502, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player4890bfb7-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1730964649916805, "dur":25086, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730964649942657, "dur":140, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1730964649943756, "dur":225028, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730964650172168, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730964650172166, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1730964650172302, "dur":1726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1730964649902067, "dur":8703, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730964649910777, "dur":1519, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730964649912297, "dur":3313, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730964649915611, "dur":398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1730964649917024, "dur":11306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1730964649928463, "dur":257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1730964649928457, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1730964649928768, "dur":4931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1730964649933913, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1730964649937838, "dur":9905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1730964649947865, "dur":6915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649954901, "dur":2006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649957010, "dur":4560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649961655, "dur":1310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649963051, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649964397, "dur":4501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649969054, "dur":2676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649971841, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649974184, "dur":1974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649976239, "dur":2777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649979101, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649980004, "dur":5049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649986271, "dur":932, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730964649985116, "dur":2100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649987337, "dur":1740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649989156, "dur":1388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1730964649998699, "dur":995, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730964649990599, "dur":9298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730964649999932, "dur":1134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1730964650001090, "dur":1237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1730964650002351, "dur":1663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":2, "ts":1730964650004049, "dur":10053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730964650014135, "dur":7292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730964650021464, "dur":1561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level9.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730964650024620, "dur":804, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730964650023067, "dur":2366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level8" }}
+,{ "pid":12345, "tid":2, "ts":1730964650025467, "dur":687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level7.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730964650028955, "dur":1324, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1730964650026190, "dur":4117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level6.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730964650030354, "dur":5043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level3.resS" }}
+,{ "pid":12345, "tid":2, "ts":1730964650035421, "dur":138633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964649902472, "dur":8357, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964649910836, "dur":1387, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964649912223, "dur":3383, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964649915609, "dur":308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1730964649916917, "dur":2568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1730964649919551, "dur":330, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1730964649919548, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1730964649919924, "dur":10740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1730964649931004, "dur":1860, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1730964649930999, "dur":1867, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1730964649935536, "dur":5361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1730964649941020, "dur":254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649941015, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649944374, "dur":14033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649958505, "dur":1460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649960084, "dur":3300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649963565, "dur":6067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649969681, "dur":1627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649971405, "dur":2596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649974078, "dur":4027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649978182, "dur":1655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649979946, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649981355, "dur":80, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964649981437, "dur":1429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649986342, "dur":958, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964649982923, "dur":4389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649987370, "dur":64, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964649987436, "dur":2220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649989714, "dur":963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1730964649996445, "dur":3229, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964649990736, "dur":8950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1730964649999716, "dur":2515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1730964650002278, "dur":11652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets10.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1730964650013979, "dur":832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1730964650023257, "dur":2157, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964650014844, "dur":10587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1730964650025476, "dur":3174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level7" }}
+,{ "pid":12345, "tid":3, "ts":1730964650029193, "dur":1070, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1730964650028702, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level5" }}
+,{ "pid":12345, "tid":3, "ts":1730964650030342, "dur":715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level4" }}
+,{ "pid":12345, "tid":3, "ts":1730964650031086, "dur":1655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level2.resS" }}
+,{ "pid":12345, "tid":3, "ts":1730964650032776, "dur":778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level1.resS" }}
+,{ "pid":12345, "tid":3, "ts":1730964650033580, "dur":581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1730964650034194, "dur":5067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1730964650039386, "dur":134682, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649902493, "dur":8353, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649910848, "dur":986, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649911835, "dur":342, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649912178, "dur":3414, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649915606, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649916552, "dur":2995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1730964649919550, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1730964649931286, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649919742, "dur":11628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1730964649931568, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1730964649935603, "dur":6297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1730964649941997, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1730964649953955, "dur":137, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649942528, "dur":11656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1730964649954301, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649955713, "dur":143, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649955860, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649958508, "dur":2627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649961262, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649962574, "dur":1413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649966189, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649964042, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649966374, "dur":3569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649970037, "dur":1395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649972974, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649971517, "dur":1529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649973107, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649974928, "dur":3476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649978468, "dur":4616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649983161, "dur":4941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649988192, "dur":2393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1730964649996383, "dur":2830, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1730964649990640, "dur":8639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":4, "ts":1730964649999322, "dur":33165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":4, "ts":1730964650032514, "dur":2328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level10" }}
+,{ "pid":12345, "tid":4, "ts":1730964650034879, "dur":1098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1730964650035994, "dur":138133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649902303, "dur":8497, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649910808, "dur":1354, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649912163, "dur":3439, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649915650, "dur":513, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1730964649915604, "dur":562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1730964649916203, "dur":64, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649917145, "dur":3737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1730964649920990, "dur":223, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1730964649920984, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1730964649921475, "dur":11198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1730964649932819, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1730964649935520, "dur":7654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1730964649943429, "dur":3890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649947450, "dur":2696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649951745, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649950243, "dur":1686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649952044, "dur":1421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649953672, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649955318, "dur":2597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649958006, "dur":2559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649960684, "dur":1691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649962508, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649964242, "dur":2361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649966683, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649969948, "dur":2252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649972259, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649973147, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649973144, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649973227, "dur":2293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649975589, "dur":770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649976418, "dur":2747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649979344, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649980450, "dur":5004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649987089, "dur":269, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649985532, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649987458, "dur":1969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649989507, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1730964649996423, "dur":2803, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649990972, "dur":8388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":5, "ts":1730964650000951, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1730964649999392, "dur":1642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1730964650001068, "dur":9853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1730964650010955, "dur":15391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1730964650026402, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level6" }}
+,{ "pid":12345, "tid":5, "ts":1730964650030778, "dur":1595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level3" }}
+,{ "pid":12345, "tid":5, "ts":1730964650032400, "dur":1694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level10.resS" }}
+,{ "pid":12345, "tid":5, "ts":1730964650034122, "dur":2786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1730964650036922, "dur":137197, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730964649902124, "dur":8656, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730964649910787, "dur":1038, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730964649911825, "dur":359, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730964649912185, "dur":3426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730964649915645, "dur":222, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1730964649915612, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1730964649917584, "dur":2112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1730964649919825, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1730964649920943, "dur":8546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1730964649929774, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1730964649940784, "dur":148, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730964649930428, "dur":10524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1730964649941143, "dur":24119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":6, "ts":1730964649941142, "dur":24122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/Yummy Fruits.exe" }}
+,{ "pid":12345, "tid":6, "ts":1730964649965310, "dur":4824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits.exe" }}
+,{ "pid":12345, "tid":6, "ts":1730964649970183, "dur":9700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964649981359, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730964649979956, "dur":1498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964649981531, "dur":1325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964649982922, "dur":1585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964649985557, "dur":1986, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1730964649984647, "dur":2968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964649988614, "dur":1636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964649990305, "dur":440, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964649990303, "dur":443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964649990756, "dur":56062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1730964650046911, "dur":127163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649902209, "dur":8586, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649910797, "dur":1057, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649911854, "dur":3784, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649915639, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1730964649917625, "dur":5943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1730964649923704, "dur":854, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1730964649924634, "dur":7579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1730964649932506, "dur":256, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1730964649932501, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1730964649935563, "dur":6365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1730964649942252, "dur":6924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649949366, "dur":7223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649956680, "dur":3720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649960516, "dur":2391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649963093, "dur":1156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649966260, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649964291, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649966488, "dur":6571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649973152, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649974207, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649976309, "dur":2727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649979113, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649980005, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649986646, "dur":663, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649981659, "dur":5679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649987419, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649987536, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649989867, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649989941, "dur":1073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1730964649991080, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1730964649992099, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1730964649996294, "dur":2900, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1730964649993786, "dur":5450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":7, "ts":1730964649999291, "dur":4861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1730964650004184, "dur":969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1730964650005185, "dur":4440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":7, "ts":1730964650009661, "dur":1091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1730964650010821, "dur":11586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1730964650022492, "dur":11006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level9" }}
+,{ "pid":12345, "tid":7, "ts":1730964650033559, "dur":10579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1730964650044209, "dur":129843, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649902514, "dur":8344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649910860, "dur":982, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649911843, "dur":163, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649912006, "dur":3593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649916110, "dur":410, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1730964649915601, "dur":920, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1730964649916547, "dur":12618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1730964649929289, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1730964649929648, "dur":11239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1730964649941070, "dur":220, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649941066, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/mygames/den/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649945174, "dur":15110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649960399, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649962609, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649963997, "dur":2827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649966935, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649972620, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649971392, "dur":1298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649972850, "dur":402, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649973255, "dur":991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649974310, "dur":3785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649979912, "dur":151, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649978178, "dur":1899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649980152, "dur":1131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649981398, "dur":1672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649983141, "dur":2276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649986906, "dur":461, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649985497, "dur":1880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649987455, "dur":2325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649989900, "dur":1328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1730964649996028, "dur":3153, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964649991286, "dur":8156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":8, "ts":1730964649999474, "dur":3979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":8, "ts":1730964650003485, "dur":5556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1730964650022735, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964650009084, "dur":13756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1730964650024712, "dur":1720, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1730964650022873, "dur":3570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level8.resS" }}
+,{ "pid":12345, "tid":8, "ts":1730964650026738, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level5.resS" }}
+,{ "pid":12345, "tid":8, "ts":1730964650028933, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level4.resS" }}
+,{ "pid":12345, "tid":8, "ts":1730964650031325, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1730964650033236, "dur":2169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/mygames/den/Yummy Fruits_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1730964650035430, "dur":138637, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1730964650179517, "dur":2046, "ph":"X", "name": "ProfilerWriteOutput" }
+,

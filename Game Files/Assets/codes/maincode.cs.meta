@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 611be005d55351740a3830425a5f83f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - "player\u0131m": {fileID: -927199367670048503, guid: ef019180a46774882bdbf566549b7960, type: 3}
+  - orangescene: {instanceID: 0}
+  - ham: {instanceID: 0}
+  - redapple: {instanceID: 0}
+  - greenapple: {instanceID: 0}
+  - pineapple: {instanceID: 0}
+  - eggplant: {instanceID: 0}
+  - pomegranate: {instanceID: 0}
+  - tomato: {instanceID: 0}
+  - orange: {instanceID: 0}
+  - redapplee: {instanceID: 0}
+  - greenapplee: {instanceID: 0}
+  - pineapplee: {instanceID: 0}
+  - eggplantt: {instanceID: 0}
+  - pomegranatee: {instanceID: 0}
+  - tomatoo: {instanceID: 0}
+  - orangee: {instanceID: 0}
+  - fruitscore: {instanceID: 0}
+  - redapplescore: {instanceID: 0}
+  - greenapplescore: {instanceID: 0}
+  - pineapplescore: {instanceID: 0}
+  - eggplantscore: {instanceID: 0}
+  - pomegranatescore: {instanceID: 0}
+  - tomatoscore: {instanceID: 0}
+  - orangescore: {instanceID: 0}
+  - timescore: {instanceID: 0}
+  - clock: {instanceID: 0}
+  - bestfruitt: {instanceID: 0}
+  - totalfruitt: {instanceID: 0}
+  - totalgamee: {instanceID: 0}
+  - averagefruitt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
