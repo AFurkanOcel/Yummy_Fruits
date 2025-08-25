@@ -31,7 +31,7 @@ The game starts from a menu. From the in-game interface, you can pause, resume, 
   - **Sound Settings**: Adjust game music and other sounds (scene not implemented yet)  
   - **Light Settings**: Toggle lights on or off (scene not implemented yet)  
   - **Statistics**: Displays stats like max fruits collected in one game, total fruits collected, total games played, and average fruits per game (scene not implemented yet)  
-- **Info Button (i)**: Shows **GAME MAKER AHMET FURKAN ÖCEL**  
+- **Info Button (i)**: Shows credits  
 - **Map Selection**: Appears when starting a game  
   - Top-left: Forest  
   - Top-right: Desert  
