@@ -66,11 +66,13 @@ The game starts from a menu. From the in-game interface, you can pause, resume, 
 
 ## 🖼️ Images
 
-**Morning**  
-<img width="1920" height="1080" alt="morning" src="https://github.com/user-attachments/assets/709c5697-0652-495e-af24-2f90807a9de3" />  
+**Game**  
+ <img width="1920" height="1080" alt="yummyfruitsgame" src="https://github.com/user-attachments/assets/0e2c1b78-497c-4f76-bda7-b0220e874145" />
 
-**Night**  
-<img width="1920" height="1080" alt="night" src="https://github.com/user-attachments/assets/7ffe1404-6792-401f-bd00-7087e6cbdd6b" />  
+
+**Maps**  
+<img width="1920" height="1080" alt="yummyfruitsmaps" src="https://github.com/user-attachments/assets/16949755-3468-4fca-8d8b-9bb804a1d698" />
+
 
 ---
 
