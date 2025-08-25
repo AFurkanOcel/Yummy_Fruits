@@ -79,7 +79,8 @@ The game starts from a menu. From the in-game interface, you can pause, resume, 
 ### **Assets**
 - 3D Character Model From: [https://assetstore.unity.com/packages/3d/characters/creatures/free-animated-angry-log-revenge-of-the-tree-150947](https://assetstore.unity.com/packages/3d/characters/creatures/free-animated-angry-log-revenge-of-the-tree-150947)
 - 3D Fruit Models From: [https://assetstore.unity.com/packages/3d/props/food/fruit-blocks-128327](https://assetstore.unity.com/packages/3d/props/food/fruit-blocks-128327)
-- 2D Background Models From: [https://assetstore.unity.com/packages/2d/environments/free-2d-cartoon-parallax-background-205812](https://assetstore.unity.com/packages/2d/environments/free-2d-cartoon-parallax-background-205812)  
+- 2D Background Models From: [https://assetstore.unity.com/packages/2d/environments/free-2d-cartoon-parallax-background-205812](https://assetstore.unity.com/packages/2d/environments/free-2d-cartoon-parallax-background-205812)
+- 2D Icons From: [https://assetstore.unity.com/packages/2d/gui/icons/jelly-icons-99749](https://assetstore.unity.com/packages/2d/gui/icons/jelly-icons-99749)  
 - Sky Texture From: [https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004](https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004)  
 
 ### **Audio**
