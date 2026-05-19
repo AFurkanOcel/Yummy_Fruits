@@ -285,7 +285,7 @@ Compiled builds are not included in this repository. Release builds should be di
 
 ### Game Development
 
-**A. Furkan OCEL**
+**A. Furkan ÖCEL**
 
 GitHub: https://github.com/KayzerFurkan04
 
