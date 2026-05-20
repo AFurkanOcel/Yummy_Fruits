@@ -290,10 +290,6 @@ Compiled builds are not included in this repository. Release builds should be di
 
 **A. Furkan ÖCEL**
 
-GitHub: https://github.com/KayzerFurkan04
-
----
-
 ## License
 
 This project is licensed under the terms included in the repository's `LICENSE` file.
