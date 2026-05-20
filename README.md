@@ -34,7 +34,7 @@ The gameplay loop is simple:
 
 The project includes a complete menu flow, map selection, controls screen, settings scenes, statistics scene, in-game pause flow, sound effects, music, and multiple themed gameplay maps.
 
-<img width="1920" height="1080" alt="yummyfruitsgame" src="https://github.com/user-attachments/assets/0e2c1b78-497c-4f76-bda7-b0220e874145" />
+<img width="1920" height="1080" alt="yummyfruitsgame" src="Assets/screenshots/yummyfruitsgame.png" />
 
 ---
 
@@ -69,6 +69,9 @@ Yummy_Fruits/
 |   |   |-- soundsettings.unity
 |   |   |-- information.unity
 |   |   `-- statistics.unity
+|   |-- screenshots/
+|   |   |-- yummyfruitsgame.png
+|   |   `-- yummyfruitsmaps.png
 |   |-- 2Dfruits(mydrawing)/
 |   |-- Assets_AngryLog/
 |   |-- FarlandSkies/
@@ -155,7 +158,7 @@ Yummy_Fruits/
 
 Each map keeps the same core gameplay while changing the visual environment.
 
-<img width="1920" height="1080" alt="yummyfruitsmaps" src="https://github.com/user-attachments/assets/16949755-3468-4fca-8d8b-9bb804a1d698" />
+<img width="1920" height="1080" alt="yummyfruitsmaps" src="Assets/screenshots/yummyfruitsmaps.png" />
 
 ### Menu and Settings Flow
 
