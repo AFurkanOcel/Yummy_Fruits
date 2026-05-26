@@ -70,8 +70,6 @@ Yummy_Fruits/
 |   |   |-- information.unity
 |   |   `-- statistics.unity
 |   |-- screenshots/
-|   |   |-- yummyfruitsgame.png
-|   |   `-- yummyfruitsmaps.png
 |   |-- 2Dfruits(mydrawing)/
 |   |-- Assets_AngryLog/
 |   |-- FarlandSkies/
